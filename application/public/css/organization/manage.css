@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+
+.li-tips
+{
+	font-size: 12px;
+	color: #666;
+	font-style:italic;
+}
+
+.div-add-member
+{
+	padding-left:4px;
+}
+
+.span-time
+{
+	margin-left:0;
+}
+.ul-organization-info .text-content
+{
+	font-size: 13px;
+	line-height: 1.7;
+}
+
+.ul-organization-info .span-title
+{
+	font-style:italic;
+	display: block;
+	font-weight: bold;
+	color:#259;
+}
+
+
+.body .left .div-all-member
+{
+	margin-top:10px;
+	display:none;
+	padding-bottom: 4px;
+}
+
+.a_all_member
+{
+	display:inline-block;
+	margin-right:10px;
+}
+.a_hide_member
+{
+	display:none;
+}
+
+.body .left .div-add-member
+{
+	border:1px solid #ededed;
+	margin-top:10px;
+	display:none;
+}
+
+
+
+
+

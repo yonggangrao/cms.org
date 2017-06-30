@@ -1,0 +1,35 @@
+
+
+.div-input
+{
+	width: 600px;
+		margin: 0 auto;
+	margin-top: 160px;
+}
+.input-search
+{
+	display: inline-block;
+	border:1px solid silver;
+	height: 36px;
+	line-height: 36px;
+	width:500px;
+	border-radius: 3px;
+}
+
+.a-search
+{
+	display: inline-block;
+	font-size: 20px;
+	padding:0;
+	height: 36px;
+	line-height: 36px;
+	padding: 0 4px;
+}
+
+.div-search-result
+{
+	border:0px solid #ededed;
+			margin: 0 auto;
+	margin-top: 100px;
+	width:600px;
+}

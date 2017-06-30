@@ -1,0 +1,20 @@
+项目说明：
+index.php		=>	在线发送飞信的入口页
+demo.php		=>	项目演示页，初次使用建议使用demo.php测试下程序是否运行正常
+cron.php		=>	用于定时发送一些信息给飞信好友的脚本
+weather_php.bat		=>	自己用记事本打开看下里面的注释吧，配合cron.php使用
+weather_php.vbs		=>	vbs脚本，配合上面的weather_php.bat批处理使用，主要作用是让批处理执行的时候隐藏command窗口
+class.fetion.php	=>	这个就不多说了，核心文件，就靠他了。
+
+其他：
+要让cron.php定时执行的话Windows用户当然要使用“计划任务”啦，自己添加一个任务即可，定期运行weather_php.vbs
+
+如果是Linux用户，可以使用/etc/crontab	然后自己写个shell脚本就行啦，这个大家自己去研究吧~
+
+
+
+
+其他问题可以联系我: cpcw@vip.qq.com
+
+
+

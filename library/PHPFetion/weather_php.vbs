@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c D:\AppServ\www\test\feixin\weather_php.bat",0 

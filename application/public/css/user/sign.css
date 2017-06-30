@@ -1,0 +1,52 @@
+
+@CHARSET "UTF-8";
+
+
+.div-sign
+{
+	border:1px solid #ededed;
+	margin:0 auto;
+	 width:320px; 
+	margin-top:80px;
+	padding: 20px;
+	font-size:16px;
+}
+
+.div-sign-head
+{
+	border-bottom:1px solid #ededed;
+	font-size:24px;
+	font-weight:bold; 
+	text-align:center;
+	margin-bottom:10px;
+}
+
+.span-title
+{
+	display:block;
+	font-weight:bold;
+}
+.input
+{
+	display:block;
+	width:300px;
+	height:24px;
+	margin-top:4px;
+	margin-bottom:10px;
+	/* outline:none; */
+}
+.button
+{
+	margin-top:20px;
+	font-size:16px;
+	height:30px;
+}
+.textarea_profile
+{
+	display:block;
+	width:300px;
+	height:26px;
+	margin-top:10px;
+	margin-bottom:10px;
+	/* outline:none; */
+}
